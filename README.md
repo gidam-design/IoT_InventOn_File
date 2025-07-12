@@ -1,5 +1,5 @@
 1) 사전실습1의 파일 목록
-   -LCD v4.stl
+   -LCD v4.stl 
    -bowl.stl
    -part.stl
    -support.stl
